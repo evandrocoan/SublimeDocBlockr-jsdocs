@@ -292,3 +292,7 @@ This package was created by [Nick Fisher][spadgos], but has many contributions f
 [tags]: https://github.com/spadgos/sublime-jsdocs/tags
 [typehinting]: http://php.net/manual/en/language.oop5.typehinting.php
 [yui]: http://yui.github.com/yuidoc/syntax/index.html
+
+## License
+See the LICENSE file
+
