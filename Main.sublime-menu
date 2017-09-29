@@ -25,14 +25,14 @@
                                 "caption": "Settings – Default",
                                 "command": "open_file", "args":
                                 {
-                                    "file": "${packages}/DocBlockr/Base File.sublime-settings"
+                                    "file": "${packages}/DocBlockr/Preferences.sublime-settings"
                                 }
                             },
                             {
                                 "caption": "Settings – User",
                                 "command": "open_file", "args":
                                 {
-                                    "file": "${packages}/User/Base File.sublime-settings"
+                                    "file": "${packages}/User/Preferences.sublime-settings"
                                 }
                             },
                             {
